@@ -1,0 +1,1 @@
+let viernes = "Hoy nos vamos de joda";
